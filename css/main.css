@@ -1371,10 +1371,10 @@ pre code {
 }
 .cc-license .cc-opacity {
   border-bottom: none;
-  opacity: 0.7;
+  opacity: 7;
 }
 .cc-license .cc-opacity:hover {
-  opacity: 0.9;
+  opacity: 9;
 }
 .cc-license img {
   display: inline-block;
